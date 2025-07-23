@@ -22,7 +22,7 @@ To build a decentralized ecosystem that:
 | **Total Supply** | 100,000,000 |
 | **Decimals** | 18 |
 | **Network** | Ethereum (currently on Sepolia testnet) |
-| **Contract Address** | [Insert contract address here] |
+| **Contract Address** | [0x26c2Bf71bC09Ad6bDe1db58F4E4D3b8092908b37] |
 
 ---
 
@@ -184,7 +184,7 @@ VELA is more than a currency—it's an incentive engine:
 - 💻 GitHub: [github.com/Rcolon2803/Vela-docs2](https://github.com/Rcolon2803/Vela-docs2)
 - 🦊 Test the token: Add VELA to MetaMask on Sepolia
 - 🗳️ Join the DAO (coming soon!)
-- 📬 Reach out: [Insert contact or socials when ready]
+- 📬 Reach out: [velatoken816@gmail.com]
 
 ---
 
